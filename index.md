@@ -9,8 +9,8 @@
 ## twitter: https://twitter.com/pauloantonelli
 ## github: https://github.com/pauloantonelli
 
-For more details see [GitHub Flavored Markdown](https://zoominitcode.dev/).
+For more details see [zoominitcode](https://zoominitcode.dev/).
 
 ### Repositories
 
-You can access my personal repositories here: [documentation](https://github.com/pauloantonelli?tab=repositories). 
+You can access my personal repositories here: [git hub paulo antonelli](https://github.com/pauloantonelli?tab=repositories). 
