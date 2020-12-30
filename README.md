@@ -8,7 +8,7 @@
 ## twitter: https://twitter.com/pauloantonelli
 
 [![Visits Badge](https://badges.pufler.dev/visits/pauloantonelli/pauloantonelli)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/pauloantonelli)(https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/pauloantonelli)(https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/pauloantonelli)(https://badges.pufler.dev)
-[![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/pauloantonelli)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/pauloantonelli)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/pauloantonelli)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/pauloantonelli)](https://badges.pufler.dev)
