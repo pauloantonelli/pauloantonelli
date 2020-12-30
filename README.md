@@ -6,3 +6,7 @@
 - 📫 How to reach me: 
 ## linkedin: https://www.linkedin.com/in/pauloantonelli/
 ## twitter: https://twitter.com/pauloantonelli
+
+https://badges.pufler.dev/visits/pauloantonelli/pauloantonelli
+https://badges.pufler.dev/years/pauloantonelli
+https://badges.pufler.dev/repos/pauloantonelli
