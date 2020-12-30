@@ -10,3 +10,5 @@
 https://badges.pufler.dev/visits/pauloantonelli/pauloantonelli
 https://badges.pufler.dev/years/pauloantonelli
 https://badges.pufler.dev/repos/pauloantonelli
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
